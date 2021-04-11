@@ -1,0 +1,52 @@
+C:\App\TestingWeb-Insights\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.exe
+C:\App\TestingWeb-Insights\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.deps.json
+C:\App\TestingWeb-Insights\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.json
+C:\App\TestingWeb-Insights\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.dev.json
+C:\App\TestingWeb-Insights\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\App\TestingWeb-Insights\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csprojAssemblyReference.cache
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csproj.CoreCompileInputs.cache
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfoInputs.cache
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfo.cs
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\App\TestingWeb-Insights\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.genruntimeconfig.cache
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.exe
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.deps.json
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.json
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.dev.json
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csprojAssemblyReference.cache
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csproj.CoreCompileInputs.cache
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfoInputs.cache
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfo.cs
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\App\TestingWeb-Insights - Users\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.genruntimeconfig.cache
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.exe
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.deps.json
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.json
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.dev.json
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csprojAssemblyReference.cache
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csproj.CoreCompileInputs.cache
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfoInputs.cache
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfo.cs
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.genruntimeconfig.cache
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.exe
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.deps.json
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.json
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.runtimeconfig.dev.json
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\bin\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csprojAssemblyReference.cache
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.csproj.CoreCompileInputs.cache
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfoInputs.cache
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.AssemblyInfo.cs
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.dll
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.pdb
+C:\Udemy\Azure\App\Users\TestingWeb-Insights - Users-2\TestingWeb-Insights\obj\Debug\netcoreapp3.1\TestingWeb-Insights.genruntimeconfig.cache
