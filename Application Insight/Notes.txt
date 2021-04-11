@@ -1,0 +1,80 @@
+Application Insights - Notes and other aspects
+Application Insights
+
+
+Overview
+
+This is an application Performance Management service for web developers.
+
+You can use this tool to monitor your applications.
+
+It can help developers detect anomalies in the application.
+
+It can help diagnose issues.
+
+It can also help understand how users use your application.
+
+It also helps you improve performance and usability of your application.
+
+Different aspects that get monitored with Application Insights
+
+Request rates, the response times and failure rates – This is done at the page level.
+
+Exception recorded by your application.
+
+Page views and their load performance as reported from the user’s browser.
+
+User and session counts.
+
+Performance counters of the underlying Windows or Linux Machines.
+
+Diagnostic trace logs from your application.
+
+Any custom events or metrics that the developer writes themselves in the code
+
+Different ways to see how your site is behaving
+
+Funnels
+
+You can create a funnel from one stage to another stage of your application.
+
+You can then see how users are progressing through the stages of the funnel.
+
+User Flows
+
+This helps visualize how users navigate between pages in your site. This can help answer question such as
+
+Does the user navigate away from a page on your site
+
+What do users click on a page on your site
+
+Where are the places where users churn most on your site
+
+Are there places where users repeat the same action over and over
+
+Impact
+
+This helps decide if a page is having an impact on your application.
+
+It can help answer the question as to whether the page load time is impacting how many people convert on a page in the application.
+
+Retention
+
+This helps you understand how many users return to your application.
+
+It can also help understand if users are able to perform certain tasks in your application.
+
+Usage and estimation costs
+
+If you go to your application insights resource and go to Usage and estimated costs, you will see your usage and estimated costs for using application insights
+
+
+If you go onto Data retention, you can decide for how long you want to retain the data collected by Application Insights. The maximum retention period is 730 days.
+
+
+If you go to Data sampling, you can decide how much data you want to be sent onto Application Insights. Sometimes if you have massive amounts of data being generated , it might slow down your application. In such cases , you can send data samples instead onto Application Insights
+
+
+You can also set a Daily cap on what is the maximum amount of data that can be collected by Application Insights on a daily basis
+
+
